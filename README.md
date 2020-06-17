@@ -1,0 +1,2 @@
+# invaders-game
+A Python-backed iteration of the classic "Space Invaders" video game, with nearly all of the same features as the original. Basic structure and supporting functions were provided by Professor Walker White, with graphics being implemented using the Kivy library. Myself and my partner coded the functionality of the game, including states (pregame, in-game, game over), player movement, alien movement &amp; waves, as well as shooting mechanisms. This project was made in collaboration with fellow Cornell student Jacob Wise. 
